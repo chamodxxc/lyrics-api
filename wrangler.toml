@@ -1,0 +1,4 @@
+name = "lyrics-api"
+main = "index.js"
+compatibility_date = "2025-12-04"
+type = "javascript"
